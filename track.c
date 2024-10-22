@@ -2,5 +2,6 @@
 
 int main(){
     printf("nowssd");
+    printf("hello");
     return 0;
 }
